@@ -1,1 +1,0 @@
-This is API integration for a Weather Python program. This is created to integrate any locations weather based off of your computers time zone without conversions. If a conversion is required you must do it manually since this is a program meant for API integration.
